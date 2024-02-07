@@ -1,3 +1,3 @@
 # web_crawler
 
-![Local Image](./mysql screenshot.png)
+![Local Image](./mysql_screenshot.png)
